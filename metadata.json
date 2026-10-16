@@ -1,0 +1,6 @@
+{
+  "name": "SMCut",
+  "description": "Découpe intelligente de vidéos longues en clips courts viraux avec sous-titres, traduction, hashtags pour réseaux sociaux et gestion d'abonnements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
